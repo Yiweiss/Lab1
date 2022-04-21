@@ -1,1 +1,2 @@
-print("OMG!! hello world!!!");
+a = "OMG!! hello world!!!"
+print(a)
